@@ -1,9 +1,5 @@
 package prog_boletin_29;
 
-/**
- *
- * @author Alba
- */
 public class Veleros extends Barcos {
 
     private int mastiles;
